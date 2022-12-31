@@ -25,3 +25,8 @@ The MD5 algorithm is divided in multiple steps:
     <p align="center">
     <img src="/static/md5_step2.png" width="1000" height="175">
     </p>
+
+## References
+
+1. [Original paper](/https://datatracker.ietf.org/doc/html/rfc1321)
+2. [Noice article](https://www.comparitech.com/blog/information-security/md5-algorithm-with-examples/)
